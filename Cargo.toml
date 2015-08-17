@@ -1,0 +1,7 @@
+[package]
+name = "Rust-2048"
+version = "0.0.1"
+authors = ["Devin Nusbaum <d.w.nusbaum@gmail.com>"]
+
+[dependencies]
+rand = "*" # Or a specific version
